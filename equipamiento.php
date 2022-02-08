@@ -34,7 +34,7 @@ include('header.php')
     <div class="card-body">
       <h5 class="card-title">Cuchillo</h5>
       <p class="card-text">Es la punta de mi antigua Alabarda (DEP). Lo suficientemente rigida para no hacer daño y poder hacer algo de esgrima. Construida por <a href="https://www.instagram.com/herrdaw_jagguer" target="_blank">David</a></p>
-      <p class="card-text"><small class="text-muted">Un mes, no tiene fracturas y sigue bastante bien.</small></p>
+      <p class="card-text"><small class="text-muted">Cerca de 6 meses, no tiene fracturas y sigue bastante bien.</small></p>
     </div>
   </div>
 </div>
@@ -46,7 +46,7 @@ include('header.php')
       <p class="card-text">Buscaba un arma para poder llevarla como Vanguardia/Soporte, creo que esta es de las mejores que se puede fabricar. Para nada pesada, y los ataques salen de puro 
         mover los brazos. Muy comoda, creada por <a href="https://www.instagram.com/herrdaw_jagguer" target="_blank">David</a>
       </p>
-      <p class="card-text"><small class="text-muted">Tiempo de vida: 1 Mes [Pequeña fisura, pero es normal, es donde sufre mas la dilatacion al impactar. No se hará mucho mas grande]</small></p>
+      <p class="card-text"><small class="text-muted">Tiempo de vida: 5 meses [Pequeña fisura, pero es normal, es donde sufre mas la dilatacion al impactar. No se hará mucho mas grande]</small></p>
     </div>
   </div>
   </div>
