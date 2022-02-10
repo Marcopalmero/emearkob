@@ -9,3 +9,4 @@
 
 
     <title>EmeArko</title>
+    <link rel="icon" href="swords.png">
