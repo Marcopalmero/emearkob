@@ -45,7 +45,7 @@ include('header.php')
                     </div>
                     <div class="col-lg-6">
                         <div class="about-avatar">
-                            <img class="aaa" src="icon.jpg" alt="" width="75%">
+                            <img class="aaa" src="Imagenes/icon.jpg" alt="" width="75%">
                         </div>
                     </div>
                 </div>

@@ -73,7 +73,7 @@ include('header.php')
     <p><a class="navtitulo">EME.</a>Muchas gracias por pasarte Egil, muy buena reflexion final. Un fuerte abrazo, no seas muy malo</p>
 
 <br>
-<img src="KIRITO.png" width="55%">
+<img src="Imagenes/entrevistas/KIRITO.png" width="55%" style="margin: 20px;">
 <br>
     <p>Hasta aqui la primera entrevista del Blog. Como hemos visto, Alejandro tiene una larga historia y varios puntos interesantes ¿Que opinas sobre Egil? Te leo por Instagram!</p>
 </div>

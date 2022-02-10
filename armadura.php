@@ -6,7 +6,8 @@ include('head.php')
 ?>
   </head>
   <body>
-<header>
+<?php $mi_pagina="armadura";
+?>
 <?php 
 include('header.php')
 ?>
@@ -50,11 +51,10 @@ include('header.php')
 </p>
 <p>
 <h1>Botas del Decathlon</h1>
-Va siendo hora de cambiarlas, es cierto, pero por ahora no me importa pisar charcos de agua (u derivados). Las cambié hace un año por la suela desgastada, pero tiran muy bien.
-</p>
+He cambiado mis botas de hipica por otras, un poco menos "realistas" pero mucho mas comodas. Son botas de senderismo con punta reforzada, a la hora de utilizarlas en las mañanas frias se ha notado muchisimo, incluso cuando anochecia que se enfria todo, mis pies han quedado bien calentitos. Muy contento con ellas.</p>
 <div class="container">
   <h1 class="text-center">Armor Time!!</h1>
-  <img src="armor (2).jpeg" class="rounded mx-auto d-block" alt="Full Armor" width="50%">
+  <img src="Imagenes/armor/armor (2).jpeg" class="rounded mx-auto d-block" alt="Full Armor" width="50%">
 </div>
 </div>
 
