@@ -13,6 +13,7 @@ include('header.php')
 ?>
 <div class="container-fluid">
 <p>
+<h4>Armadura Actualizada a dia 10/03/2022</h4>
 <h1><a href="https://https://www.zeughaus.info/Blasebalg-Schaller-15-Jh-16-mm-poliert">Blasebalg Schaller 15 Jh. (1,6 mm)</a></h1>
   Estaba buscando un casco que no me quitara demasiada movilidad, ademas de que me protegiera bien, estuve pensando en un nasal, pero no te cubren del todo.
   El Schaller 15 Jh. me enamoró a primera vista, super comodo, no se mueve demasiado, y permite escuchar bien a los demas. Algo caro, cierto, pero muy bueno.
@@ -49,12 +50,18 @@ include('header.php')
   El gambeson,a parte de acolchar la armadura, tambien es para protegerte. ¿A quien no le ha llegado un flechazo o una estocada [Obviamente sin querer] a la nuez?
   Bueno, este gambeson cumple muy bien su función, la verdad es que estoy contentisimo, algo incomodo de poner, pero movilidad de 10, cubre bien las zonas importantes y es bien bonito.
 </p>
+<h1><a href="https://www.thetimeseller.com/product/12605/0/0/1/1/Guantes-de-serraje-para-guantelete.html">Guantes de Serraje</a></h1>
+Yo ya habia tenido guantes antes, pero si es cierto que no me gustaron mucho, eran los Guantes de Serraje Kandor, y dejadme que os diga que de serraje tenian poco (O al menos esa fue la impresion que me dieron.)
+Los que tengo actualmente se nota que son mucho mejores, ayudan a mejorar la caracterizacion una barbaridad, ademas de haberme protegido del frio en los dias de Invierno, y para que mentirnos, al desviar una lanza de un
+hostiazo se nota mucho menos el impacto en los nudillos. 
+</p>
 <p>
 <h1>Botas del Decathlon</h1>
 He cambiado mis botas de hipica por otras, un poco menos "realistas" pero mucho mas comodas. Son botas de senderismo con punta reforzada, a la hora de utilizarlas en las mañanas frias se ha notado muchisimo, incluso cuando anochecia que se enfria todo, mis pies han quedado bien calentitos. Muy contento con ellas.</p>
 <div class="container">
   <h1 class="text-center">Armor Time!!</h1>
   <img src="Imagenes/armor/armor (2).jpeg" class="rounded mx-auto d-block" alt="Full Armor" width="50%">
+<h5 style="text-align: center;">Foto tomada en Junio de 2021</h5>
 </div>
 </div>
 
