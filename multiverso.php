@@ -61,7 +61,7 @@ include('header.php')
   </a>
 </div>
 
-
+<h5 style="text-align: center;">Creditos a <a href="https://www.instagram.com/_.photos._2003/" target="_blank">Patricia</a> y a <a href="https://www.instagram.com/xaival.photo/" target="_blank">Xaival</a> por las fotos</a>
 
 
 <?php 
