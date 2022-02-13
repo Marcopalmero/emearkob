@@ -65,7 +65,6 @@ He cambiado mis botas de hipica por otras, un poco menos "realistas" pero mucho 
 </div>
 </div>
 
-
 <?php 
 include('footer.php')
 ?>

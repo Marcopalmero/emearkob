@@ -13,7 +13,7 @@ include('header.php')
 <!--EQUIPAMIENTO EN USO-->
 <div class="card-group">
   <div class="card">
-    <img class="card-img-top img" src="Imagenes/equipamiento/noviceII1.png" alt="Card image cap">
+    <img class="card-img-top img" src="Imagenes/proximamente.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Espada Sable</a></h5>
       <p class="card-text">Es un arma que le pedí a mi herrero de confianza, <a href="https://www.instagram.com/herrdaw_jagguer" target="_blank">David</a>. La espada perfecta para acompañar a mi escudo.</p>
@@ -21,7 +21,7 @@ include('header.php')
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top img" src="Imagenes/equipamiento/escudo1.png" alt="Card image cap">
+    <img class="card-img-top img" src="Imagenes/equipamiento/escudo.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title"><a href="https://mortisdraco.com/producto/escudo-theng-verde-blanco-80cm/" target="_blank">Escudo 80cmØ</a></h5>
       <p class="card-text">Mi primer escudo de Manija. Queria probar algo diferente y mas grande que el anterior. Veremos como se comporta.</p>

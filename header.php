@@ -15,6 +15,9 @@
             <li <?php if ($mi_pagina=="aboutme") echo " class='nav-item active'"; ?>>
               <a class="nav-link titulo" href="aboutme.php">Sobre mi</a>
             </li>
+            <li <?php if ($mi_pagina=="multiverso") echo " class='nav-item active'"; ?>>
+              <a class="nav-link titulo" href="multiverso.php">Multiverso</a>
+            </li>
             <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle titulo" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Entrevistas
