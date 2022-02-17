@@ -31,7 +31,7 @@ include('header.php')
                                 </div>
                                 <div class="col-md-6">
                                     <div class="media">
-                                        <label>E-mail: marco.palmero2001@gmail.com</label>
+                                        <label>E-mail: neunlarp@gmail.com</label>
                                     </div>
                                     <div class="media">
                                         <label>Discord: Marquito#6736</label>
@@ -39,7 +39,7 @@ include('header.php')
                                     <div class="media">
                                         <label>Twitter: <a href="https://www.twitter.com/MckPalmero" target="_blank">@MckPalmero</a></label>
                                     </div>
-                                <div class="media">
+                                    <div class="media">
                                     <label>Mi Aplicación de DND: <a href="https://drive.google.com/file/d/1XVYsWy9Z31f9bw57V1X6Z2Sy9r5csjx3/view?usp=sharing" target="_blank">DnDEmeArko</a></label>
                                 </div>
                                 </div>
