@@ -39,6 +39,9 @@ include('header.php')
                                     <div class="media">
                                         <label>Twitter: <a href="https://www.twitter.com/MckPalmero" target="_blank">@MckPalmero</a></label>
                                     </div>
+                                <div class="media">
+                                    <label>Mi Aplicación de DND: <a href="https://drive.google.com/file/d/1XVYsWy9Z31f9bw57V1X6Z2Sy9r5csjx3/view?usp=sharing" target="_blank">DnDEmeArko</a></label>
+                                </div>
                                 </div>
                             </div>
                         </div>
