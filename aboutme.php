@@ -19,7 +19,7 @@ include('header.php')
                         <div class="about-text go-to">
                             <h3 class="dark-color">About Me</h3>
                             <h6 class="theme-color lead">Neun Smijörn</h6>
-                            <p>Entrenado en el arte del Escudo y empezando con Bardiche. </p>
+                            <p>Actual Miembro de la Asociacion Sentencia Bravia.</p>
                             <div class="row about-list">
                                 <div class="col-md-6">
                                     <div class="media">
