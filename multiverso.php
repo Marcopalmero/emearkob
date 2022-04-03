@@ -23,6 +23,8 @@ include('header.php')
     <img src="Imagenes/multiverso/mig1.png">
     <img src="Imagenes/multiverso/mig2.png">
     <img src="Imagenes/multiverso/mig3.png">
+  </div>
+  <div class="column">
     <img src="Imagenes/multiverso/mig4.png">
   </div>
 </div>
